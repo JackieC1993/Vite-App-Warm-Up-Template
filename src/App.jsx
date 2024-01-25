@@ -5,9 +5,8 @@ function App() {
   return (
     <div className='App'>
       <h1>Hello Dev!</h1>
-     
-    </div>
-     
+     <Square/>
+    </div>   
   )
 }
 
